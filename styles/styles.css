@@ -17,3 +17,16 @@ ul li {
     color: orange;
 }
 
+.home-title {
+    text-align: center;
+}
+
+.home-list {
+    margin: 0 auto;
+    width: 8em;
+}
+
+.home-list li {
+    margin-bottom: 8px;
+}
+
